@@ -63,7 +63,8 @@ that apparently had impact on other editorial projects as well, such as Rzine. R
 
 
 
-## References 
+## References
+
 the authors.”Alternatives to mainstream publishing within and beyond academia”. Ephemera. Theory & politics in organization. 21 (4) November 2021: 117-142 https://ephemerajournal.org/contribution/alternatives-mainstream-publishing-within-and-beyond-academia 
 
 Brooks, M K. Real Talk on Static Sites and Digital Literacies. April 14, 2021 https://mackenziekbrooks.info/update/2021/04/14/real-talk-static-sites.html 
@@ -87,5 +88,4 @@ lifecycle management
 
 https://www.sciencedirect.com/science/article/pii/S0263786316304112
 
-Mačiulienė M (2022) Beyond Open Access: Conceptualizing Open Science for Knowledge Co-creation. Front. Commun. 7:907745. doi: 10.3389/fcomm.2022.907745
-- 
+Mačiulienė M (2022) Beyond Open Access: Conceptualizing Open Science for Knowledge Co-creation. Front. Commun. 
