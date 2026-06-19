@@ -1,5 +1,5 @@
 ---
-title: Static websites and research dissemination: a multifaceted approach at an interdisciplinary research centre in digital history
+title: "Static websites and research dissemination: a multifaceted approach at an interdisciplinary research centre in digital history"
 authors: 
  - Daniele Guido
  - Sofia Papastamkou
