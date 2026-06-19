@@ -73,6 +73,9 @@ Dhillon, V. 2016. Static Site Generators. In: Creating Blogs with Jekyll. Berkel
 
 Galison, P. Trading with the Enemy. In: Gorman M., editor. Trading Zones and Interactional Expertise: Creating New Kinds of Collaboration. Cambridge: MIT Press; 2010: 25–52
 
+Lincoln, Matthew, Jennifer Isasi, Sarah Melton, et François Dominic Laramée. « Relocating Complexity: The Programming Historian and Multilingual Static Site Generation ». Digital Humanities Quarterly 16, nᵒ 2 (2022). https://doi.org/10.63744/mug9x4xmc85e.
+
+
 Kemman, M. Trading Zones of Digital History. Berlin, Boston: De Gruyter Oldenbourg; 2021: 89-90 https://doi.org/10.1515/9783110682106 
 
 Scagliola, S. To Google or not to Google; Have a look at Ranke.2!”, C²DH website (2017-2023), https://www.c2dh.uni.lu/, 8 October 2018 https://web.archive.org/web/20230912165021/https://www.c2dh.uni.lu/data/google-or-not-google-have-look-ranke2 
